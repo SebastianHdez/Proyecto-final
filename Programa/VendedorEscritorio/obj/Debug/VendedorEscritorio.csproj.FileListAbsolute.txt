@@ -1,0 +1,27 @@
+D:\Trabajos programación\Programa\VendedorEscritorio\bin\Debug\VendedorEscritorio.exe.config
+D:\Trabajos programación\Programa\VendedorEscritorio\bin\Debug\VendedorEscritorio.exe
+D:\Trabajos programación\Programa\VendedorEscritorio\bin\Debug\VendedorEscritorio.pdb
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.csprojAssemblyReference.cache
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.Form1.resources
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.ProductosFrom.resources
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.Properties.Resources.resources
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.csproj.GenerateResource.cache
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.csproj.CoreCompileInputs.cache
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.exe
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.pdb
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.EmpleadoForm.resources
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.ClienteForm.resources
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\bin\Debug\VendedorEscritorio.exe.config
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\bin\Debug\VendedorEscritorio.exe
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\bin\Debug\VendedorEscritorio.pdb
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.csprojAssemblyReference.cache
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.ClienteForm.resources
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.EmpleadoForm.resources
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.Form1.resources
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.ProductosFrom.resources
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.Properties.Resources.resources
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.csproj.GenerateResource.cache
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.csproj.CoreCompileInputs.cache
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.exe
+E:\1.a- Sebastián\Trabajos programación orientada a objetos\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.pdb
+D:\Trabajos programación\Programa\VendedorEscritorio\obj\Debug\VendedorEscritorio.FacturaFrom.resources
